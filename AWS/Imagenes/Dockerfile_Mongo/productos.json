@@ -1,0 +1,156 @@
+[
+	{
+		"author" : "Marvin Gaye",
+		"album" : "What's Going On",
+		"country" : "EEUU",
+		"price" : "25.00"
+	},
+	{
+		"author" : "Nirvana",
+		"album" : "Nevermind",
+		"country" : "EEUU",
+		"price" : "22.95"
+	},
+	{
+		"author" : "Stevie Wonder",
+		"album" : "Songs inm the Key of Life",
+		"country" : "EEUU",
+		"price" : "30.00"
+	},
+	{
+		"author" : "The Beatles",
+		"album" : "Abbey Road",
+		"country" : "England",
+		"price" : "25.00"
+	},
+	{
+		"author" : "Prince and the Revolution",
+		"album" : "Purple Rain",
+		"country" : "EEUU",
+		"price" : "27.95"
+	},{
+		"author" : "Bob Dylan",
+		"album" : "Blood on the tracks",
+		"country" : "EEUU",
+		"price" : "25.00"
+	},{
+		"author" : "The Beatles",
+		"album" : "Revolver",
+		"country" : "England",
+		"price" : "22.95"
+	},
+	{
+		"author" : "Michael Jackson",
+		"album" : "Thriller",
+		"country" : "EEUU",
+		"price" : "17.95"
+	},
+	{
+		"author" : "Aretha Franklin",
+		"album" : "I Never Loved a Man the Way I Love You",
+		"country" : "EEUU",
+		"price" : "23.05"
+	},
+	{
+		"author" : "The Roling Stones",
+		"album" : "Exile on Main Street",
+		"country" : "EEUU",
+		"price" : "30.00"
+	},
+	{
+		"author" : "Public Enemy",
+		"album" : "It Takes a Nation of Millions to Hold Us Back",
+		"country" : "EEUU",
+		"price" : "20.00"
+	},
+	{
+		"author" : "Kanye West",
+		"album" : "My Beautiful Dark Twisted Fantasy",
+		"country" : "EEUU",
+		"price" : "25.00"
+	},
+	{
+		"author" : "Kendrick Lamar",
+		"album" : "To Pimp a Butterfly",
+		"country" : "EEUU",
+		"price" : "25.00"
+	},
+	{
+		"author" : "Radiohead",
+		"album" : "Kid A MNESIA",
+		"country" : "EEUU",
+		"price" : "30.00"
+	},
+	{
+		"author" : "Bruce Springsteen",
+		"album" : "Born to Burn",
+		"country" : "EEUU",
+		"price" : "25.00"
+	},
+	{
+		"author" : "MC5",
+		"album" : "Kick Out the Jams",
+		"country" : "EEUU",
+		"price" : "30.00"
+	},
+	{
+		"author" : "Arctic Monkeys",
+		"album" : "AM",
+		"country" : "England",
+		"price" : "25.00"
+	},
+	{
+		"author" : "Toots and the Maytals",
+		"album" : "Funky Kingston",
+		"country" : "Jamaica",
+		"price" : "15.00"
+	},
+	{
+		"author" : "Snoop Dog",
+		"album" : "Doggystyle",
+		"country" : "EEUU",
+		"price" : "20.00"
+	},
+	{
+		"author" : "Madonna",
+		"album" : "Like a Prayer",
+		"country" : "EEUU",
+		"price" : "27.95"
+	},
+	{
+		"author" : "The Who",
+		"album" : "Live at Leeds",
+		"country" : "England",
+		"price" : "22.95"
+	},
+	{
+		"author" : "Coldplay",
+		"album" : "A Rush of Blood to the Head",
+		"country" : "England",
+		"price" : "25.00"
+	},
+	{
+		"author" : "Elvis Presley",
+		"album" : "From Elvis in Memphis",
+		"country" : "EEUU",
+		"price" : "27.95"
+	},
+	{
+		"author" : "Lana del Rey",
+		"album" : "Norman Fuckinfg Rockwell!",
+		"country" : "EEUU",
+		"price" : "35.00"
+	},
+	{
+		"author" : "Rosalia",
+		"album" : "El Mal Querer",
+		"country" : "Spain",
+		"price" : "20.00"
+	},
+	{
+		"author" : "Sam Cooke",
+		"album" : "Portrait of a Legend",
+		"country" : "EEUU",
+		"price" : "40.00"
+	}
+]

@@ -1,0 +1,53 @@
+version: '3.7'
+services:
+ bd:
+  image: imagen_bd:latest
+  networks:
+   - redAPI
+  deploy:
+   replicas: 1
+   placement:
+    constraints:
+     - "node.role==manager"
+ productos:
+  image: productos:latest
+  networks:
+   - redAPI
+  ports:
+   - 5010:8081
+  depends_on:
+   - bd
+  deploy:
+   replicas: 1
+ carritos:
+  image: carritos:latest
+  networks:
+   - redAPI
+  ports:
+   - 5011:8081
+  depends_on:
+   - bd
+  deploy:
+   replicas: 1
+ compras:
+  image: compras:latest
+  networks:
+   - redAPI
+  ports:
+   - 5012:8081
+  depends_on:
+   - bd
+  deploy:
+   replicas: 1
+ usuarios:
+  image: usuarios:latest
+  networks:
+   - redAPI
+  ports:
+   - 5013:8081
+  depends_on:
+   - bd
+  deploy:
+   replicas: 1
+networks:
+ redAPI: {} 
